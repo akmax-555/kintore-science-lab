@@ -1,0 +1,9 @@
+baseURL = 'https://ken-fit-science.github.io/'
+locale = 'ja'
+title = '筋トレ科学ラボ'
+theme = 'ananke'
+languageCode = 'ja-jp'
+
+[params]
+  description = '科学的根拠に基づく筋トレ・ダイエット情報'
+  author = 'Ken Fit Science'
