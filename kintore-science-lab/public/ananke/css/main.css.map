@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/ak/.openclaw/workspace-max/kintore-science-lab",
+	"sourceRoot": "/Users/ak/.openclaw/workspace-mini/kintore-science-lab",
 	"sources": [
 		"ananke/css/main.css"
 	],
