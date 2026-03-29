@@ -53,7 +53,7 @@ What would you do with an extra 39 days?
 ```
 
 ## EN-003
-**status**: 未投稿
+**status**: ✅ 投稿済み 2026-03-29
 **type**: Knowledge (comparison)
 **text**:
 ```

@@ -627,7 +627,7 @@ https://a.r10.to/hX5ZjV
 ```
 
 ### A-010 [AFFILIATE]
-**status**: 未投稿
+**status**: ✅ 投稿済み 2026-03-29
 **product**: ダンベル
 **link**: https://a.r10.to/h5eKm3
 **text**:

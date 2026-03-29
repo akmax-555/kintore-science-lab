@@ -215,3 +215,69 @@ https://www.threads.com/@ken_fit_science/post/DWbWcYqj_9d
 - 投稿成功
 - リンクプレビュー正常表示（楽天市場・ザバスプロテイン）
 - 14:00失敗の原因はOpenClaw独立ブラウザ未使用（Chrome接続試行）
+
+---
+
+## 2026-03-29 09:00 (朝・自動投稿)
+
+### 日本語版 (@ken_fit_science)
+**タイプ**: アフィリエイト投稿（A-010）
+**カテゴリ**: ダンベル（楽天アフィリエイト）
+**テキスト**:
+```
+ジム行くか迷ってる人、まず自宅トレから試せ。
+
+ジムのデメリット👇
+❌ 月8,000円以上かかる
+❌ 移動時間がもったいない
+❌ 人目が気になる
+❌ 混んでると待ち時間発生
+
+可変式ダンベルのメリット👇
+✅ 1万円台で買い切り
+✅ 自宅で完結
+✅ 人目ゼロ
+✅ 待ち時間ゼロ
+
+3ヶ月自宅で続けて、足りないと思ったらジムに行け。
+逆は遠回り。
+
+最初の一歩はこれ👇
+https://a.r10.to/h5eKm3
+
+#筋トレ #自宅トレーニング #ダンベル #ジム #ホームジム
+```
+
+**投稿URL**: https://www.threads.com/@ken_fit_science/post/DWcvuVWj_3-
+
+### 英語版 (@ai_tools_lab_)
+**タイプ**: Knowledge (comparison)（EN-003）
+**カテゴリ**: AI Tools比較
+**テキスト**:
+```
+ChatGPT vs Claude vs Gemini — honest comparison (March 2026):
+
+Writing quality: Claude > ChatGPT > Gemini
+Code generation: ChatGPT ≈ Claude > Gemini
+Research/search: Gemini > Perplexity > ChatGPT
+Speed: Gemini > ChatGPT > Claude
+Price/value: Claude ≈ ChatGPT > Gemini
+
+My workflow:
+→ Claude for writing & analysis
+→ ChatGPT for code & quick tasks
+→ Gemini for real-time research
+
+Stop picking one. Use all three for different jobs.
+
+#AITools #ChatGPT #Claude #Gemini #AIProductivity
+```
+
+**投稿URL**: https://www.threads.com/@ai_tools_lab_/post/DWcvxOyk9ea
+
+### 備考
+- cronジョブから実行（PJ-005 Threads投稿・朝・JP+EN）
+- ブラウザ制御で両アカウントに投稿完了
+- 日本語版: リンクプレビュー正常表示（楽天市場・ダンベル）
+- 英語版: テキストのみ投稿（リンクなし）
+- 両ストックファイル更新完了
