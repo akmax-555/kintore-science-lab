@@ -61,6 +61,71 @@ Threads(@ken_fit_science)でのエンゲージメント活動
 
 ---
 
+## 2026-03-30 09:00 (朝・自動投稿)
+
+### 日本語版 (@ken_fit_science)
+**タイプ**: 知識共有（K-018・通説否定）
+**テーマ**: ランニングでの減量効率
+
+**投稿テキスト**:
+```
+ランニングで痩せるのは非効率。
+
+理由👇
+1時間のランニング = 約400kcal消費
+ラーメン1杯 = 約600kcal
+
+つまり1時間走っても、1杯のラーメンで余裕で赤字。
+
+さらに問題なのは👇
+有酸素運動だけだと筋肉も減る → 基礎代謝低下 → リバウンド
+
+痩せたいなら👇
+✅ 食事管理（摂取カロリー < 消費カロリー）
+✅ 筋トレ（筋肉を維持して代謝を保つ）
+✅ 有酸素は補助（週2回まで）
+
+ランニングは悪くないが、それだけじゃ痩せない。
+
+#ダイエット #ランニング #筋トレ #科学的根拠 #有酸素運動
+```
+
+**投稿URL**: https://www.threads.com/@ken_fit_science/post/DWfUfuzjxwm
+
+**結果**: 投稿成功
+
+### 英語版 (@ai_tools_lab_)
+**タイプ**: Knowledge (controversial) (EN-004)
+**テーマ**: AI and job displacement
+
+**投稿テキスト**:
+```
+AI won't take your job.
+
+A person using AI will.
+
+McKinsey 2025 report:
+→ 60-70% of work activities can be automated
+→ But only 5% of jobs will be fully replaced
+
+The gap? Judgment, creativity, relationships.
+
+The real threat isn't AI. It's refusing to learn it.
+
+Every tool you master today = a moat your competitor doesn't have tomorrow.
+
+#AIProductivity #FutureOfWork #AI #CareerAdvice #WorkSmarter
+```
+
+**投稿URL**: 未投稿（ブラウザセッションがken_fit_scienceアカウントのため手動投稿必要）
+
+**備考**:
+- ai_tools_lab_アカウントへのログイン切り替えが必要
+- OpenClawブラウザでは現在ken_fit_scienceでログイン中
+- 手動投稿を推奨: ボスがai_tools_lab_でログインして投稿
+
+---
+
 ## 2026-03-27 22:00 (夜・自動投稿)
 
 ### 投稿内容
