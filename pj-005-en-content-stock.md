@@ -76,7 +76,7 @@ Stop picking one. Use all three for different jobs.
 ```
 
 ## EN-004
-**status**: 未投稿（手動投稿待ち 2026-03-30）
+**status**: ✅ 投稿済み 2026-03-31
 **type**: Knowledge (controversial)
 **text**:
 ```
