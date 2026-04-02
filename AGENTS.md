@@ -105,6 +105,13 @@ When you have no specific task, execute the following in order. Do not ask permi
 - **21:30** PJ-008 article production (Mon/Wed/Sat)
 - **23:00** Daily Save → sessions/ + CONTEXT.md update
 
+## ERROR HANDLING RULE (All agents — Mandatory)
+- Same error 2 times → IMMEDIATELY fix or redesign. Do not wait for 3rd failure.
+- If CONTEXT.md edit fails, do NOT retry the same way. Write to a new file instead.
+- If a cron job fails, check the error, fix the cause, and report to #メモ.
+- "Nothing done today" is death. If all tasks are blocked, find unblocked work and do it.
+- Zero-output days are unacceptable. If you produced nothing, explain why in 1 line and fix it.
+
 ## REVERSIBLE (Execute immediately, no approval needed)
 - File creation and editing
 - Data analysis and report generation
