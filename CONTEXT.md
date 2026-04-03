@@ -13,7 +13,7 @@
 - **リスト取得業**: メイン責任者がいる
 
 ## 担当チャンネル
-- #メモ / #売上・業務 / #リスト / #オープン準備
+- #営業 (1476876126700961803) / #ジム (1476876132153430118) / #商品 (1477517164259836036・sub-agents用)
 
 ## 完了済み成果物（詳細はsessions/参照）
 - deployment/checklist.md, roleplay-scripts.md, objection-handling.md, training-plan.md（営業落とし込み）

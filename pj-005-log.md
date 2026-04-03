@@ -96,3 +96,65 @@ https://a.r10.to/hYsRjD
 - 開始: 20:00
 - 問題確認: 20:05
 - 状況: 実行不可、ボス判断待ち
+
+---
+
+## 2026-04-03 20:50 夜投稿（実行不可）
+
+### 問題発生（継続）
+**EN版（@ai_tools_lab_）アカウント停止中（変化なし）**
+- 状態: 人間確認要求継続
+- 期限: 176日以内（前回から4日経過）
+- 影響: 投稿・閲覧すべて不可
+
+**JP版（@ken_fit_science）アクセス不可（継続）**
+- profile=openclaw: EN版停止アカウントでログイン中のため使用不可
+- profile=user: Chrome未起動のためアクセス不可
+
+### 今回投稿予定だったコンテンツ（クリップボードにコピー済み）
+
+**JP版 K-021:**
+```
+腹筋を割りたいなら腹筋運動をやめろ。
+
+事実👇
+腹筋は最初から割れている。見えないのは体脂肪が覆っているから。
+
+つまり👇
+❌ 腹筋100回 → 腹筋は鍛えられるが脂肪は減らない
+✅ 食事管理で体脂肪率15%以下にする → 腹筋が見える
+
+部分痩せは科学的に否定されている（Vispute et al. 2011）
+
+腹筋を「作る」んじゃない。「見せる」んだ。
+
+#筋トレ #腹筋 #ダイエット #体脂肪 #科学的根拠
+```
+
+**EN版 EN-005:**
+```
+5 AI tools that actually save time (not just hype):
+
+1. Notion AI — meeting notes → action items in 10 sec
+2. Granola — transcribes meetings with context
+3. Cursor — code 3x faster with AI pair programming
+4. Perplexity — research with sources (goodbye 20 tabs)
+5. Descript — edit video by editing text
+
+I've tested 100+ AI tools in the past year.
+These 5 actually stuck in my daily workflow.
+
+Save this for later 🔖
+
+#AITools #Productivity #TechTips #AIProductivity #Automation
+```
+
+### 必要な対応（ボス判断待ち）
+1. EN版アカウント復旧: 人間確認を完了させる
+2. JP版アクセス確立: profile設定またはログイン情報の確認
+3. 手動投稿: 上記コンテンツをクリップボードにコピー済み
+
+### 所要時間
+- 開始: 20:50
+- 問題確認完了: 20:55
+- 状況: 実行不可、#営業にボス判断要請済み
